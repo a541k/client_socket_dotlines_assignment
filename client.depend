@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1701604057 source:c:\users\hp\desktop\new folder\client\main.cpp
+	<iostream>
+	<winsock2.h>
+
