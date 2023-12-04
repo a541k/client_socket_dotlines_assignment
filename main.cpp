@@ -7,7 +7,7 @@
 
 using namespace std;
 
-Data user1 = {77, "ashik", "mahmud", "ashik@test.com", "2014-05-28 11:30:10", "2014-05-29 12:30:10", 12};
+//Data user1 = {77, "ashik", "mahmud", "ashik@test.com", "2014-05-28 11:30:10", "2014-05-29 12:30:10", 12};
 
 const int PORT = 2222;
 
