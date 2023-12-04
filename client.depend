@@ -1,5 +1,14 @@
 # depslib dependency file v1.0
-1701604057 source:c:\users\hp\desktop\new folder\client\main.cpp
+1701702037 source:c:\users\hp\desktop\new folder\client\main.cpp
 	<iostream>
 	<winsock2.h>
+	"lib/data_struct.hpp"
+	"lib/data_input.hpp"
+	<string>
+
+1701605899 c:\users\hp\desktop\new folder\client\lib\data_struct.hpp
+	<string>
+
+1701699517 c:\users\hp\desktop\new folder\client\lib\data_input.hpp
+	"data_struct.hpp"
 
